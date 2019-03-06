@@ -1,0 +1,31 @@
+.preview-bg {
+	text-align: center;
+}
+
+.iphone {
+	width: 350px;
+}
+
+.preview {
+	width: 309px;
+	height: 535px;	
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	top: 97px;
+	left: 177px;
+	position: absolute;
+}
+
+.splash-container {
+	margin-top: 25%;
+}
+
+.video {
+	margin-top: 45%;
+}
+
+.preview-btn {
+	display: flex;
+	justify-content: center;
+}

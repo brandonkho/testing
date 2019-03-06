@@ -1,0 +1,17 @@
+input[type="file"] {
+    display: none;
+}
+
+.file-upload-button, #file-upload-button-logo {
+    color: white;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    background-color: #d42b1e;
+}
+
+.file-upload:focus + label {
+	outline: 1px dotted #000;
+	outline: -webkit-focus-ring-color auto 5px;
+}

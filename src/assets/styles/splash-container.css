@@ -1,0 +1,15 @@
+.splash-container {
+	width: 285px;
+	height: 300px;
+	text-align: center;
+}
+
+.splash-container p {
+	font-size: 18px;
+	margin-top: 20px;
+	font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.loader-animation {
+	margin-top: 50px;
+}

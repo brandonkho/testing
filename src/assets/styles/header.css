@@ -1,0 +1,23 @@
+.preview-header {
+	font-size: 12px;
+    background-color: white;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 4px;
+    box-shadow: 0px 0.5px 1px 0px #000000;
+    -webkit-box-shadow: 0px 0.5px 1px 0px #000000;
+    -moz-box-shadow: 0px 0.5px 1px 0px #000000;
+    z-index: 100;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    text-align: left;
+}
+
+.preview-header img {
+	max-height: 41px;
+    position: relative;
+    top: -1px;
+    vertical-align: middle;
+    max-width: 50%;
+}

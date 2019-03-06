@@ -1,0 +1,11 @@
+.global-fields-container {
+	border-bottom: 1px solid #545861;
+}
+
+.global-msg {
+	font-size: 10px;
+}
+
+.global-fields select  {
+	margin-bottom: 15px;
+}

@@ -1,0 +1,15 @@
+.cta-button {
+	color: white;	
+    padding: 6px 10px;
+    font-size: 20px;
+    font-weight: 600;
+    border-width: 0;
+    white-space: pre-wrap;
+    text-align: center;
+    width: 224px;
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.cta-button:first-child {
+	margin-bottom: 15px;
+}
